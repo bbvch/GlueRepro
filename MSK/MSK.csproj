@@ -7,7 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="AWS.Glue.SchemaRegistry" Version="1.0.0-linux-x64-beta"/>
+        <PackageReference Include="AWS.Glue.SchemaRegistry" Version="1.0.1-linux-x64-beta"/>
     </ItemGroup>
 
 </Project>
